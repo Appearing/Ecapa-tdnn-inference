@@ -1,0 +1,9 @@
+../../audio/1_wq.wav
+../../audio/2_wr.wav
+../../audio/3_m.wav
+../../audio/4_hj.wav
+../../audio/5_lf.wav
+../../audio/6_lhj.wav
+../../audio/7_pq.wav
+../../audio/8_szy.wav
+../../audio/0_mh.wav
